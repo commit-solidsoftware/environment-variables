@@ -1,6 +1,7 @@
 {
   "name": "commit-solidsoftware/environment-variables",
   "description": "Classe para gerenciar variáveis de ambiente para não precisar ficar definindo fixo no código constantes, como por exemplo informações do banco de dados.",
+  "version": "1.0.0",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
