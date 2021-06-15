@@ -1,0 +1,27 @@
+{
+  "name": "commit-solidsoftware/environment-variables",
+  "description": "Classe para gerenciar variáveis de ambiente para não precisar ficar definindo fixo no código constantes, como por exemplo informações do banco de dados.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "André L. de Oliveira",
+      "email": "suporte@solidsoftware.com.br",
+      "role": "CEO e Developer",
+      "homepage": "https://solidsoftware.com.br/"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+  }
+}
