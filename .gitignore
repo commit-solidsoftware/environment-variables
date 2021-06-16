@@ -114,5 +114,5 @@ fabric.properties
 composer.lock
 composer.phar
 Index.php
-vendor/*
+vendor/
 .htaccess
