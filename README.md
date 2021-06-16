@@ -19,7 +19,7 @@ DB_PORT=3307
 
 require 'vendor/autoload.php';
     
-use \App\Classes\Environment\Environment;
+use \App\Classes\Environment;
 
 // Carrega o caminho onde se encontra arquivo .env
 // Ele pode ser carregado em outro lugar também, basta mudar o paramêtro __DIR__ do método load() informado abaixo.
