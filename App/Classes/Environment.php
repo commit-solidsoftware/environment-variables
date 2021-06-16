@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Classes\Environment;
+namespace App\Classes;
 
 class Environment
 {

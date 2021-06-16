@@ -110,9 +110,9 @@ fabric.properties
 
 
 .idea/
+vendor/
 .env
 composer.lock
 composer.phar
 Index.php
-vendor/
 .htaccess
